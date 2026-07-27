@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hillary Kiama Kirugu 👋</h1>
+<h1 align="center">Hi, I'm Hillary Kiama Kirugu </h1>
 
 <h3 align="center">
 Full Stack Developer • Building Scalable Web Applications Across Frontend, Backend & Data Solutions
@@ -8,7 +8,7 @@ Full Stack Developer • Building Scalable Web Applications Across Frontend, Bac
 
 ## About Me
 
-I'm a Full Stack Developer based in Kenya with a passion for building scalable,
+I'm a Full Stack Developer with a passion for building scalable,
 high-performance web applications.
 
 I enjoy turning ideas into production-ready software by working across the
