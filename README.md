@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hillary Kiama Kirugu 👋</h1>
+<h1 align="center">Hi, I'm Hillary Kiama Kirugu </h1>
 <h3 align="center">
 Full Stack Developer • Building Scalable Web Applications Across Frontend, Backend & Data Solutions
 </h3>
